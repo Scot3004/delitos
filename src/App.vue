@@ -27,50 +27,23 @@
       <v-btn icon @click.stop="miniVariant = !miniVariant">
         <v-icon v-html="miniVariant ? 'chevron_right' : 'chevron_left'"></v-icon>
       </v-btn>
-      <v-btn icon @click.stop="clipped = !clipped">
-        <v-icon>web</v-icon>
-      </v-btn>
-      <v-btn icon @click.stop="fixed = !fixed">
-        <v-icon>remove</v-icon>
-      </v-btn>
       <v-toolbar-title v-text="title"></v-toolbar-title>
       <v-spacer></v-spacer>
-      <v-btn icon @click.stop="rightDrawer = !rightDrawer">
-        <v-icon>menu</v-icon>
+       <v-btn icon @click.stop="clipped = !clipped">
+        <v-icon>web</v-icon>
       </v-btn>
     </v-toolbar>
     <v-content>
-      <v-container fluid>
-        <v-slide-y-transition mode="out-in">
-          <v-layout column align-center>
-            <img src="/public/v.png" alt="Vuetify.js" class="mb-5" />
-            <blockquote>
-              &#8220;First, solve the problem. Then, write the code.&#8221;
-              <footer>
-                <small>
-                  <em>&mdash;John Johnson</em>
-                </small>
-              </footer>
-            </blockquote>
-          </v-layout>
-        </v-slide-y-transition>
-      </v-container>
+      <mapbox 
+        access-token="pk.eyJ1Ijoic2NvdDMwMDQiLCJhIjoiY2phYmJuNDhrMTBwbzMzbGliajd4ZGI1MiJ9.7coysMcZvUjSo7kEdc7fzA"
+        :map-options="{
+          style: 'mapbox://styles/mapbox/light-v9',
+          center: [-74.809,10.962],
+          zoom: 11.5
+        }"
+      >
+      </mapbox>
     </v-content>
-    <v-navigation-drawer
-      temporary
-      :right="right"
-      v-model="rightDrawer"
-      fixed
-    >
-      <v-list>
-        <v-list-tile @click.native="right = !right">
-          <v-list-tile-action>
-            <v-icon>compare_arrows</v-icon>
-          </v-list-tile-action>
-          <v-list-tile-title>Switch drawer (click me)</v-list-tile-title>
-        </v-list-tile>
-      </v-list>
-    </v-navigation-drawer>
     <v-footer :fixed="fixed" app>
       <span>&copy; 2017</span>
     </v-footer>
@@ -78,6 +51,7 @@
 </template>
 
 <script>
+  import Mapbox from 'mapbox-gl-vue';
   export default {
     data () {
       return {
@@ -85,13 +59,19 @@
         drawer: true,
         fixed: false,
         items: [
-          { icon: 'bubble_chart', title: 'Inspire' }
+          { icon: 'child_care', title: 'Edades' },
+          { icon: 'gavel', title: 'Delitos' },
+          { icon: 'wc', title: 'Genero' },
+          { icon: 'date_range', title: 'Año' }
         ],
         miniVariant: false,
         right: true,
         rightDrawer: false,
-        title: 'Vuetify.js'
+        title: 'Delitos que involucran menores de edad en Barranquilla'
       }
+    },
+    components: {
+      Mapbox
     }
   }
 </script>
