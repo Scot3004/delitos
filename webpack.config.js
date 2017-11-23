@@ -51,7 +51,8 @@ module.exports = {
         test: /\.styl$/,
         loader: ['style-loader', 'css-loader', 'stylus-loader']
       }
-    ]
+    ],
+    noParse: /(mapbox-gl)\.js$/,
   },
   devServer: {
     historyApiFallback: true,
