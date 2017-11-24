@@ -1,0 +1,534 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "0",
+        "2016": "1",
+        "2017": "0",
+        "estacion": "ESTACIÓN RIOMAR",
+        "edad": "12",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "FEMENINO",
+        "delito": "ARTÍCULO 269F. VIOLACIÓN DE DATOS PERSONALES"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.826981,
+          10.997656
+        ],
+        "type": "Point"
+      },
+      "id": "011d6b87dc0f364c62e6a70e273b57b6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "1",
+        "2016": "0",
+        "2017": "0",
+        "estacion": "ESTACIÓN RIOMAR",
+        "edad": "15",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "FEMENINO",
+        "delito": "ARTÍCULO 269A. ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.826981,
+          10.997656
+        ],
+        "type": "Point"
+      },
+      "id": "042a748a05e40c0eabe3e6b8223aa3f7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "0",
+        "2016": "0",
+        "2017": "1",
+        "estacion": "ESTACIÓN SIMÓN BOLÍVAR",
+        "edad": "16",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "FEMENINO",
+        "delito": "ARTÍCULO 269A. ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.77749,
+          10.943736
+        ],
+        "type": "Point"
+      },
+      "id": "0acad58afaffaad986b7941356beb7b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "0",
+        "2016": "1",
+        "2017": "0",
+        "estacion": "ESTACIÓN RIOMAR",
+        "edad": "16",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "FEMENINO",
+        "delito": "ARTÍCULO 269F. VIOLACIÓN DE DATOS PERSONALES"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.826981,
+          10.997656
+        ],
+        "type": "Point"
+      },
+      "id": "0f755bd5fa3d990277dd5f7b8727b9ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "0",
+        "2016": "0",
+        "2017": "3",
+        "estacion": "ESTACIÓN CIUDADELA",
+        "edad": "17",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "FEMENINO",
+        "delito": "ARTÍCULO 269A. ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.800847,
+          10.938301
+        ],
+        "type": "Point"
+      },
+      "id": "3c81b1f1dcc3ef718608322fa3a6b6df"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "0",
+        "2016": "1",
+        "2017": "0",
+        "estacion": "ESTACIÓN RIOMAR",
+        "edad": "14",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "FEMENINO",
+        "delito": "ARTÍCULO 269A. ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.826981,
+          10.997656
+        ],
+        "type": "Point"
+      },
+      "id": "3eeebf6d04eeb9eaec3fc8cf8979ac62"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "1",
+        "2016": "0",
+        "2017": "1",
+        "estacion": "ESTACIÓN EL SILENCIO",
+        "edad": "15",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "FEMENINO",
+        "delito": "ARTÍCULO 269A. ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.815977,
+          10.977546
+        ],
+        "type": "Point"
+      },
+      "id": "48515db79920bf5535a01ddb0e3809e6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "0",
+        "2016": "0",
+        "2017": "1",
+        "estacion": "ESTACIÓN SAN JOSE",
+        "edad": "15",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "FEMENINO",
+        "delito": "ARTÍCULO 269A. ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.812953,
+          10.98618
+        ],
+        "type": "Point"
+      },
+      "id": "59937c6423378463dc90faa968b45439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "1",
+        "2016": "0",
+        "2017": "0",
+        "estacion": "ESTACIÓN RIOMAR",
+        "edad": "7",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "FEMENINO",
+        "delito": "ARTÍCULO 269B. OBSTACULIZACIÓN ILEGÍTIMA DE SISTEMA INFORMÁTICO O RED DE TELECOMUNICACIÓN"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.826981,
+          10.997656
+        ],
+        "type": "Point"
+      },
+      "id": "5c5eab43b0a8c0e31a4fab409a370a81"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "0",
+        "2016": "1",
+        "2017": "0",
+        "estacion": "ESTACIÓN NORTE",
+        "edad": "14",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "MASCULINO",
+        "delito": "ARTÍCULO 269A. ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.841779,
+          11.009338
+        ],
+        "type": "Point"
+      },
+      "id": "68e1fde35d0bd4c0e3136bf25d2a13a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "0",
+        "2016": "0",
+        "2017": "1",
+        "estacion": "ESTACIÓN RIOMAR",
+        "edad": "13",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "MASCULINO",
+        "delito": "ARTÍCULO 269A. ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.826981,
+          10.997656
+        ],
+        "type": "Point"
+      },
+      "id": "816d2b9de67565c4b7a1b607d1b93f78"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "1",
+        "2016": "0",
+        "2017": "0",
+        "estacion": "ESTACIÓN NORTE",
+        "edad": "2",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "MASCULINO",
+        "delito": "ARTÍCULO 269I. HURTO POR MEDIOS INFORMÁTICOS Y SEMEJANTES"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.841779,
+          11.009338
+        ],
+        "type": "Point"
+      },
+      "id": "823605b37c3afa93c15249ce4964c91a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "0",
+        "2016": "0",
+        "2017": "1",
+        "estacion": "ESTACIÓN NORTE",
+        "edad": "15",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "FEMENINO",
+        "delito": "ARTÍCULO 269A. ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.841779,
+          11.009338
+        ],
+        "type": "Point"
+      },
+      "id": "8a129842be808a6796254e20b208edb0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "0",
+        "2016": "0",
+        "2017": "1",
+        "estacion": "ESTACIÓN SIMÓN BOLÍVAR",
+        "edad": "17",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "FEMENINO",
+        "delito": "ARTÍCULO 269A. ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.77749,
+          10.943736
+        ],
+        "type": "Point"
+      },
+      "id": "907b88ac2297bcf361ecbf821efda732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "1",
+        "2016": "1",
+        "2017": "0",
+        "estacion": "ESTACIÓN RIOMAR",
+        "edad": "13",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "FEMENINO",
+        "delito": "ARTÍCULO 269A. ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.826981,
+          10.997656
+        ],
+        "type": "Point"
+      },
+      "id": "a7dc530f35909f6f4c023cc8df031874"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "0",
+        "2016": "0",
+        "2017": "1",
+        "estacion": "ESTACIÓN RIOMAR",
+        "edad": "16",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "FEMENINO",
+        "delito": "ARTÍCULO 269A. ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.826981,
+          10.997656
+        ],
+        "type": "Point"
+      },
+      "id": "ad33a6fec2440c968c81b5fcff60aa99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "0",
+        "2016": "0",
+        "2017": "1",
+        "estacion": "ESTACIÓN SAN JOSE",
+        "edad": "13",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "FEMENINO",
+        "delito": "ARTÍCULO 269A. ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.812953,
+          10.98618
+        ],
+        "type": "Point"
+      },
+      "id": "ada6077c9b468b162e8936c128911256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "0",
+        "2016": "0",
+        "2017": "1",
+        "estacion": "ESTACIÓN RIOMAR",
+        "edad": "16",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "MASCULINO",
+        "delito": "ARTÍCULO 269A. ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.826981,
+          10.997656
+        ],
+        "type": "Point"
+      },
+      "id": "bac473b9dad3abfc0d6799b77778cbd6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "0",
+        "2016": "0",
+        "2017": "1",
+        "estacion": "ESTACIÓN EL BOSQUE",
+        "edad": "12",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "FEMENINO",
+        "delito": "ARTÍCULO 269A. ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.815614,
+          10.947963
+        ],
+        "type": "Point"
+      },
+      "id": "bb6cfb5e84454ab56ff6331d8b92d39b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "1",
+        "2016": "0",
+        "2017": "0",
+        "estacion": "ESTACIÓN RIOMAR",
+        "edad": "14",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "MASCULINO",
+        "delito": "ARTÍCULO 269A. ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.826981,
+          10.997656
+        ],
+        "type": "Point"
+      },
+      "id": "bd1034b2ed5cd279af87a59d290e69cc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "0",
+        "2016": "0",
+        "2017": "1",
+        "estacion": "ESTACIÓN RIOMAR",
+        "edad": "17",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "MASCULINO",
+        "delito": "ARTÍCULO 269A. ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.826981,
+          10.997656
+        ],
+        "type": "Point"
+      },
+      "id": "c2144cdd1dc43eeacb1e855e7d7b0f88"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "0",
+        "2015": "0",
+        "2016": "0",
+        "2017": "1",
+        "estacion": "ESTACIÓN EL BOSQUE",
+        "edad": "14",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "FEMENINO",
+        "delito": "ARTÍCULO 269A. ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.815614,
+          10.947963
+        ],
+        "type": "Point"
+      },
+      "id": "c4e7d8868a18b94c8e3edf244d400e31"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "2014": "1",
+        "2015": "0",
+        "2016": "0",
+        "2017": "0",
+        "estacion": "ESTACIÓN CENTRO HISTORICO",
+        "edad": "16",
+        "departamento": "ATLÁNTICO",
+        "municipio": "BARRANQUILLA (CT)",
+        "genero": "FEMENINO",
+        "delito": "ARTÍCULO 269A. ACCESO ABUSIVO A UN SISTEMA INFORMÁTICO"
+      },
+      "geometry": {
+        "coordinates": [
+          -74.788125,
+          10.983013
+        ],
+        "type": "Point"
+      },
+      "id": "d72c2949745f14eccb92e99505022299"
+    }
+  ],
+  "type": "FeatureCollection"
+}
